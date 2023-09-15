@@ -1,2 +1,4 @@
 # N-ary-Tree
-Ciao
+A Java implementation of N-ary Tree Data structures and related operations.
+
+
