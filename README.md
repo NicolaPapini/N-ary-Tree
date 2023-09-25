@@ -1,4 +1,5 @@
 # N-ary-Tree
-A Java implementation of N-ary Tree Data structures and related operations.
+This Java projects provides an implementation of an N-ary tree along with its essential operations allowing to manipulate and traverse the tree efficiently. This was my University project for the Algorithm and Data Structures course.
+
 
 
