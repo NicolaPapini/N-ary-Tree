@@ -3,14 +3,13 @@ N-ary Tree implementation using Java. The project was done for the Algorithm and
 
 ## Functionalities:
 
-1.  Add a root to the tree or set a new root.
-2.  Find the first occurrence of a node based on its content.
-3.  Add a node to the tree as a child of a specific parent node. You can also add it in a specific position among the children of a parent node.
-4.  Remove the first occurrence of a node based on its content.
-5.  Remove a node in a specific position among the children of a parent node.
-6.  Check if the tree is empty.
-7.  Get the pre-order/post-order/level-order traversal path as a List.
-8.  Get the height of the tree.
+1.  Find the first occurrence of a node based on its content.
+2.  Add a node to the tree as a child of a specific parent node. You can also add it in a specific position among the children of a parent node.
+3.  Remove the first occurrence of a node based on its content.
+4.  Remove a node in a specific position among the children of a parent node.
+5.  Check if the tree is empty.
+6.  Get the pre-order/post-order/level-order traversal path as a List.
+7.  Get the height of the tree.
 
 ## Example Usage:
 
