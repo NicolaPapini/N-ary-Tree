@@ -8,7 +8,7 @@ N-ary Tree implementation using Java. The project was done for the Algorithm and
 3.  Remove the first occurrence of a node based on its content.
 4.  Remove a node in a specific position among the children of a parent node.
 5.  Check if the tree is empty.
-6.  Get the pre-order/post-order/level-order traversal path as a List.
+6.  Get the pre-order/post-order/level-order traversal path as a list.
 7.  Get the height of the tree.
 
 ## Example Usage
